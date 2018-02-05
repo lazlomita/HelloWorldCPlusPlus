@@ -1,2 +1,2 @@
-# HelloWorldCPlusPlus
-Code in C++ as part of the learning
+# HelloWorldC++
+Code in C++ as part of the learning programming languages.
